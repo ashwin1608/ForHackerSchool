@@ -1,0 +1,1 @@
+This Program will help us simplify boolean expressions involving four variables by plotting and solving a K Map. The output will be in form of Minterms and help us construct logical circuits using logical gates.  
